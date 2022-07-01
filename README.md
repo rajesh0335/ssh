@@ -1,3 +1,3 @@
 # ssh
 echo "hello"
-echo "added"
+echo "now added"
